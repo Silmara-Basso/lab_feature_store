@@ -1,3 +1,9 @@
+# Results
+feature_store/
+pipeline_runs/
+
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -135,6 +141,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+featvenv/
 
 # Spyder project settings
 .spyderproject
